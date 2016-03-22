@@ -1,0 +1,16 @@
+.stopwatch {
+	font-size: 64px;
+	text-align: center;
+	padding-top: 64px;
+	font-family: sans-serif;
+	font-weight: 100;
+}
+
+button {
+	color: #FFFFFF;
+	background-color: #000000;
+	border: 0;
+	border-radius: 5px;
+	padding: 10px;
+	width: 80px;
+}
